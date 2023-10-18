@@ -2,10 +2,6 @@
 # Explainable AI Assignment 2 - Model Explanations
 In this assignment, you are challenged to explain a model. For this, you will research exisiting approaches and apply them to your model and interpret the results.
 
-## General Information Submission due on 17.12.2020, 23:59
-
-For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
-
 
 ### Approach #2: SVM Model for Monitoring Reciprocating Compressor Valves with SHAP
 Below, the model and its background is briefly explained, followed by a description of the SHAP model explanation approach and the analysis results and a discussion. The code for training the model with given data and applying SHAP to it can be found in *shap_explanation_v02.ipynb*.
